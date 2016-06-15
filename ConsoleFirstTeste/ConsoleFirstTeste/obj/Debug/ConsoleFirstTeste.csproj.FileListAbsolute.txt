@@ -1,0 +1,6 @@
+E:\Documentos\GitHub\TesteRepositorio140601\ConsoleFirstTeste\ConsoleFirstTeste\bin\Debug\ConsoleFirstTeste.exe.config
+E:\Documentos\GitHub\TesteRepositorio140601\ConsoleFirstTeste\ConsoleFirstTeste\bin\Debug\ConsoleFirstTeste.exe
+E:\Documentos\GitHub\TesteRepositorio140601\ConsoleFirstTeste\ConsoleFirstTeste\bin\Debug\ConsoleFirstTeste.pdb
+E:\Documentos\GitHub\TesteRepositorio140601\ConsoleFirstTeste\ConsoleFirstTeste\obj\Debug\ConsoleFirstTeste.csprojResolveAssemblyReference.cache
+E:\Documentos\GitHub\TesteRepositorio140601\ConsoleFirstTeste\ConsoleFirstTeste\obj\Debug\ConsoleFirstTeste.exe
+E:\Documentos\GitHub\TesteRepositorio140601\ConsoleFirstTeste\ConsoleFirstTeste\obj\Debug\ConsoleFirstTeste.pdb
